@@ -1,0 +1,8 @@
+USE csdl_taxi;
+
+UPDATE LAIXE
+    SET HanGP = '2031-5-7'
+    WHERE SoGP = '799876543210';
+
+DELETE FROM CALAMVIEC
+    WHERE MaLX = 2;
