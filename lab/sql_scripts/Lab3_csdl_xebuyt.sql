@@ -1,3 +1,4 @@
+USE csdl_xebuyt;
 /*Các câu lệnh truy vấn select theo yêu cầu: */
 -- 1. Cho biết mã số tuyến, tên tuyến, cự ly, tên đơn vị vận hành của các tuyến xe buýt có cự ly lớn hơn 20,000m.
 select 
